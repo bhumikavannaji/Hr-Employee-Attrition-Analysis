@@ -380,3 +380,7 @@ This project demonstrates practical skills in:
 This project was created as a data analytics portfolio project to demonstrate the ability to transform employee data into meaningful business insights using **MySQL and Power BI**.
 
 The project follows an end-to-end analytics workflow from data preparation and SQL analysis to dashboard development and business recommendations.
+
+## Dashboard Preview
+
+![HR Employee Attrition Dashboard](screenshots/HR_Attrition_Dashboard.png)
